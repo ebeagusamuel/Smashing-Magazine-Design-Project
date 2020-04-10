@@ -159,6 +159,7 @@ body {
     text-decoration: underline;
     text-align: center;
     margin-top: 50px;
+    font-family: "Jua", sans-serif;
    }
 
 .next-to-middle-div {
@@ -226,4 +227,52 @@ body {
   transform: rotate(-17deg);
   background-color: rgb(209, 202, 202);
   margin-top: 50px;
+}
+
+.next4-middle-div {
+    display: flex;
+    height: 300px;
+    background: rgb(80, 78, 78)
+
+}
+
+.inside-next4-middle-div1{
+    width: 800px;
+    font-family: "Jua", sans-serif;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.table-of-contents {
+    width: 200px;
+    height: 60px;
+    border-radius: 7px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.inside-next4-middle-div2{
+    width: 150px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background: grey
+}
+
+.next5-middle-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: "Jua", sans-serif;
+}
+
+.inside-next5-middle-div {
+    height: 400px;
+    width: 300px;
+    background-color: grey;
+    border-radius: 10px;
 }
