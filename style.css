@@ -276,3 +276,29 @@ body {
     background-color: grey;
     border-radius: 10px;
 }
+
+.next6-middle-div {
+  height: 600px;
+  background: grey;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-family: "Jua", sans-serif;
+}
+.inside-next6-middle-div-circle {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  margin-top: 50px;
+}
+.inside-next6-middle-div-rectangle {
+  width: 300px;
+  height: 50px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
