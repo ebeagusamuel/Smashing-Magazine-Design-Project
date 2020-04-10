@@ -2,13 +2,13 @@
 
 > This is a visual hierarchy heat-map of the Smashing Magazine home page
 
-![screenshot](./img/Screenshot5)
-![screenshot](./img/Screenshot6)
-![screenshot](./img/Screenshot7)
-![screenshot](./img/Screenshot8)
-![screenshot](./img/Screenshot9)
-![screenshot](./img/Screenshot10)
-![screenshot](./img/Screenshot11)
+![screenshot](./img/Screenshot5.png)
+![screenshot](./img/Screenshot6.png)
+![screenshot](./img/Screenshot7.png)
+![screenshot](./img/Screenshot8.png)
+![screenshot](./img/Screenshot9.png)
+![screenshot](./img/Screenshot10.png)
+![screenshot](./img/Screenshot11.png)
 
 Additional description about the project and its features.
 
