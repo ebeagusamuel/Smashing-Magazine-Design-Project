@@ -1,6 +1,6 @@
 body {
   position: relative;
-  width: 1366px;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -269,7 +269,7 @@ nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 20px;
-  margin-left: 20px;
+  margin-left: 100px;
   margin-right: 20px;
   font-family: "Jua", sans-serif;
 }
@@ -279,6 +279,7 @@ nav {
   width: 300px;
   background-color: grey;
   border-radius: 10px;
+  text-align: center;
 }
 
 .next6-middle-div {
@@ -329,12 +330,6 @@ nav {
   background: grey;
 }
 
-.inside-next7-middle-div1 p {
-  font-size: 25px;
-  text-align: center;
-  line-height: 40px;
-}
-
 .inside-next7-middle-div2 {
   display: flex;
   justify-content: space-around;
@@ -342,7 +337,39 @@ nav {
 
 .inside-next7-middle-div-rectangles {
   width: 400px;
-  height: 120px;
+  height: 220px;
   margin-top: 50px;
   background: grey;
+  text-align: center;
+}
+
+.inside-next7-middle-div1 ul {
+  font-size: 20px;
+  text-align: center;
+  line-height: 40px;
+  list-style: circle;
+  font-family: "Jua", sans-serif;
+}
+
+.inside-next7-middle-div1 ul {
+  list-style-type: circle;
+  list-style-image: none;
+
+}
+
+.inside-next7-middle-div1 ul li{
+  display: inline;
+}
+
+.inside-next7-middle-div1 ul li:before {
+  content: "•";
+}
+
+.inside-next7-middle-div-rectangles ul li {
+  display: inline;
+  padding: 6px;
+}
+
+a {
+  color: #000066;
 }
