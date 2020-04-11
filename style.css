@@ -351,17 +351,11 @@ nav {
   font-family: "Jua", sans-serif;
 }
 
-.inside-next7-middle-div1 ul {
-  list-style-type: circle;
-  list-style-image: none;
-
-}
-
-.inside-next7-middle-div1 ul li{
+.inside-next7-middle-div1 ul li {
   display: inline;
 }
 
-.inside-next7-middle-div1 ul li:before {
+.inside-next7-middle-div1 ul li::before {
   content: "•";
 }
 
@@ -371,5 +365,5 @@ nav {
 }
 
 a {
-  color: #000066;
+  color: #006;
 }
